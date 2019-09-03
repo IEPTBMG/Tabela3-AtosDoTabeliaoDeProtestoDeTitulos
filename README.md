@@ -1,5 +1,5 @@
 # Tabela 3 - Atos do Tabelião de Protesto de Títulos
-Fonte: (Recivil)[http://www.recivil.com.br/downloads/view/tabela-3-atos-do-tabeliao-de-protesto-de-titulos]
+Fonte: [Recivil](http://www.recivil.com.br/downloads/view/tabela-3-atos-do-tabeliao-de-protesto-de-titulos)
 1. Tabela 3 - ISSQN 1%
 1. Tabela 3 - ISSQN 1,5%
 1. Tabela 3 - ISSQN 2%
