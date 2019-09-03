@@ -1,4 +1,4 @@
-# Tabela 3 - Atos do Tabelião de Protesto de Títulos
+# Tabela 3 - Atos do Tabelião de Protesto de Títulos - Minas Gerais
 Fonte: [Recivil](http://www.recivil.com.br/downloads/view/tabela-3-atos-do-tabeliao-de-protesto-de-titulos)
 1. Tabela 3 - ISSQN 1%
 1. Tabela 3 - ISSQN 1,5%
